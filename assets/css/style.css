@@ -200,3 +200,14 @@ section {
 .skills{
 	margin-top: 75px;
 }
+
+.skills-title h2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 80px; 
+}
