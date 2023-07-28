@@ -1,10 +1,10 @@
 4532
 42/workspaces/britlex/assets/style/style.css1690373263831682200 0
-40/workspaces/britlex/assets/svg/light.svg1690373236227682200 0
-39/workspaces/britlex/assets/svg/logo.svg1690373236231682200 0
-44/workspaces/britlex/assets/svg/listening.svg1690373236231682200 0
-42/workspaces/britlex/assets/svg/writing.svg1690373236231682200 0
-43/workspaces/britlex/assets/svg/personal.svg1690373236231682200 0
+40/workspaces/britlex/assets/svg/light.svg1690538582272813900 0
+39/workspaces/britlex/assets/svg/logo.svg1690538614916813900 0
+44/workspaces/britlex/assets/svg/listening.svg1690538599416813900 0
+42/workspaces/britlex/assets/svg/writing.svg1690538684700813900 0
+43/workspaces/britlex/assets/svg/personal.svg1690538620532813900 0
 30/workspaces/britlex/assets/svg1690373236231682200 1
 26/workspaces/britlex/assets1690373236227682200 1
 29/workspaces/britlex/README.md1690373900411682200 0
@@ -65,7 +65,7 @@
 61/workspaces/britlex/node_modules/nth-check/lib/index.d.ts.map1690373414871000000 0
 61/workspaces/britlex/node_modules/nth-check/lib/parse.d.ts.map1690373414871000000 0
 52/workspaces/britlex/node_modules/commander/Readme.md1690373398602999000 0
-40/workspaces/britlex/assets/svg/about.svg1690373236227682200 0
+40/workspaces/britlex/assets/svg/about.svg1690538540744813900 0
 51/workspaces/britlex/node_modules/commander/index.js1690373398602999000 0
 50/workspaces/britlex/node_modules/commander/esm.mjs1690373398602999000 0
 50/workspaces/britlex/node_modules/commander/typings1690373424947682200 1
@@ -635,7 +635,7 @@
 92/workspaces/britlex/node_modules/@parcel/core/test/fixtures/application-targets/package.json1690373398605000000 0
 79/workspaces/britlex/node_modules/@parcel/core/test/fixtures/application-targets1690373427699682200 1
 94/workspaces/britlex/node_modules/@parcel/core/test/fixtures/common-targets-ignore/package.json1690373398605000000 0
-42/workspaces/britlex/assets/svg/reading.svg1690373236231682200 0
+42/workspaces/britlex/assets/svg/reading.svg1690538645016813900 0
 81/workspaces/britlex/node_modules/@parcel/core/test/fixtures/common-targets-ignore1690373427699682200 1
 69/workspaces/britlex/node_modules/@parcel/core/test/fixtures/bundle.js1690373398605000000 0
 66/workspaces/britlex/node_modules/@parcel/core/test/fixtures/parcel1690373427703682200 1
@@ -1008,7 +1008,7 @@
 69/workspaces/britlex/node_modules/@swc/helpers/lib/_sliced_to_array.js1690373403263999000 0
 74/workspaces/britlex/node_modules/@parcel/optimizer-image/lib/loadNative.js1690373399796000000 0
 78/workspaces/britlex/node_modules/@parcel/optimizer-image/lib/ImageOptimizer.js1690373399796000000 0
-40/workspaces/britlex/assets/css/style.css1690379120063682200 0
+40/workspaces/britlex/assets/css/style.css1690545264444813900 0
 60/workspaces/britlex/node_modules/@parcel/optimizer-image/lib1690373426379682200 1
 64/workspaces/britlex/node_modules/@parcel/optimizer-image/LICENSE1690373399796000000 0
 43/workspaces/britlex/node_modules/parcel/src1690373426979682200 1
@@ -1411,7 +1411,7 @@
 54/workspaces/britlex/node_modules/node-addon-api/napi.h1690373402115999000 0
 77/workspaces/britlex/node_modules/caniuse-lite/data/features/feature-policy.js1690373401440000000 0
 75/workspaces/britlex/node_modules/css-tree/lib/syntax/function/expression.js1690373403954999000 0
-47/workspaces/britlex/dist/index.f3b972e4.css.map1690379324503682200 0
+47/workspaces/britlex/dist/index.f3b972e4.css.map1690545262676813900 0
 63/workspaces/britlex/node_modules/node-addon-api/tools/README.md1690373402115999000 0
 41/workspaces/britlex/node_modules/mdn-data1690373424863682200 1
 67/workspaces/britlex/node_modules/node-addon-api/tools/check-napi.js1690373402115999000 0
@@ -2279,7 +2279,7 @@
 63/workspaces/britlex/node_modules/@babel/code-frame/package.json1690373416421000000 0
 85/workspaces/britlex/node_modules/@swc/helpers/src/_class_private_field_loose_base.mjs1690373403263999000 0
 64/workspaces/britlex/node_modules/caniuse-lite/data/regions/MT.js1690373401440000000 0
-43/workspaces/britlex/assets/svg/speaking.svg1690373236231682200 0
+43/workspaces/britlex/assets/svg/speaking.svg1690538679648813900 0
 48/workspaces/britlex/node_modules/detect-libc/bin1690373425359682200 1
 67/workspaces/britlex/node_modules/caniuse-lite/data/features/ruby.js1690373401440000000 0
 66/workspaces/britlex/node_modules/caniuse-lite/dist/lib/statuses.js1690373401440000000 0
@@ -2365,7 +2365,7 @@
 55/workspaces/britlex/node_modules/caniuse-lite/README.md1690373401440000000 0
 86/workspaces/britlex/node_modules/@parcel/runtime-js/src/helpers/browser/wasm-loader.js1690373400907000000 0
 64/workspaces/britlex/node_modules/caniuse-lite/data/regions/BR.js1690373401440000000 0
-49/workspaces/britlex/dist/homepageImg.3f51c60e.svg1690379324467682200 0
+49/workspaces/britlex/dist/homepageImg.3f51c60e.svg1690545236336813900 0
 73/workspaces/britlex/node_modules/type-fest/source/fixed-length-array.d.ts1690373404345000000 0
 71/workspaces/britlex/node_modules/lmdb/dependencies/lz4/lib/liblz4.pc.in1690373401184999000 0
 79/workspaces/britlex/node_modules/caniuse-lite/data/features/css-writing-mode.js1690373401440000000 0
@@ -2392,7 +2392,7 @@
 52/workspaces/britlex/node_modules/base-x/package.json1690373399107000000 0
 73/workspaces/britlex/node_modules/caniuse-lite/data/features/object-fit.js1690373401440000000 0
 78/workspaces/britlex/node_modules/caniuse-lite/data/features/css-crisp-edges.js1690373401440000000 0
-45/workspaces/britlex/dist/reading.9f7cd025.svg1690379324467682200 0
+45/workspaces/britlex/dist/reading.9f7cd025.svg1690545236340813900 0
 72/workspaces/britlex/node_modules/caniuse-lite/data/features/dragndrop.js1690373401440000000 0
 86/workspaces/britlex/node_modules/caniuse-lite/data/features/font-variant-alternates.js1690373401440000000 0
 76/workspaces/britlex/node_modules/caniuse-lite/data/features/ambient-light.js1690373401440000000 0
@@ -2407,7 +2407,7 @@
 64/workspaces/britlex/node_modules/caniuse-lite/data/regions/MP.js1690373401440000000 0
 82/workspaces/britlex/node_modules/@swc/helpers/src/_is_native_reflect_construct.mjs1690373403263999000 0
 84/workspaces/britlex/node_modules/@parcel/transformer-js/parcel-swc.darwin-arm64.node1690373401561000000 0
-48/workspaces/britlex/dist/britlex.3464ddca.js.map1690379324483682200 0
+48/workspaces/britlex/dist/britlex.3464ddca.js.map1690545236500813900 0
 64/workspaces/britlex/node_modules/caniuse-lite/data/regions/BI.js1690373401440000000 0
 85/workspaces/britlex/node_modules/caniuse-lite/data/features/prefers-reduced-motion.js1690373401440000000 0
 79/workspaces/britlex/node_modules/caniuse-lite/data/features/css-env-function.js1690373401440000000 0
@@ -2421,9 +2421,9 @@
 48/workspaces/britlex/node_modules/srcset/index.js1690373402874000000 0
 91/workspaces/britlex/node_modules/@swc/helpers/_/_class_apply_descriptor_update/package.json1690373403263999000 0
 52/workspaces/britlex/node_modules/is-extglob/index.js1690373411503000000 0
-46/workspaces/britlex/assets/svg/homepageImg.svg1690373236227682200 0
+46/workspaces/britlex/assets/svg/homepageImg.svg1690538575036813900 0
 83/workspaces/britlex/node_modules/caniuse-lite/data/features/css-element-function.js1690373401440000000 0
-45/workspaces/britlex/dist/writing.5b933143.svg1690379324467682200 0
+45/workspaces/britlex/dist/writing.5b933143.svg1690545236340813900 0
 64/workspaces/britlex/node_modules/caniuse-lite/data/regions/PM.js1690373401440000000 0
 71/workspaces/britlex/node_modules/@swc/helpers/esm/_wrap_native_super.js1690373403263999000 0
 56/workspaces/britlex/node_modules/is-extglob/package.json1690373411503000000 0
@@ -2454,7 +2454,7 @@
 55/workspaces/britlex/node_modules/@parcel/codeframe/test1690373425663682200 1
 64/workspaces/britlex/node_modules/caniuse-lite/data/regions/VC.js1690373401440000000 0
 85/workspaces/britlex/node_modules/caniuse-lite/data/features/keyboardevent-location.js1690373401440000000 0
-24/workspaces/britlex/dist1690379324507682200 1
+24/workspaces/britlex/dist1690545262676813900 1
 70/workspaces/britlex/node_modules/posthtml/node_modules/posthtml-parser1690373424987682200 1
 78/workspaces/britlex/node_modules/caniuse-lite/data/features/document-policy.js1690373401440000000 0
 66/workspaces/britlex/node_modules/type-fest/source/stringified.d.ts1690373404345000000 0
@@ -2485,7 +2485,7 @@
 74/workspaces/britlex/node_modules/caniuse-lite/data/features/css-lch-lab.js1690373401440000000 0
 63/workspaces/britlex/node_modules/type-fest/source/value-of.d.ts1690373404345000000 0
 70/workspaces/britlex/node_modules/caniuse-lite/data/features/flexbox.js1690373401440000000 0
-39/workspaces/britlex/assets/svg/live.svg1690373236231682200 0
+39/workspaces/britlex/assets/svg/live.svg1690538608532813900 0
 69/workspaces/britlex/node_modules/ordered-binary/assets/powers-dre.png1690373402190000000 0
 74/workspaces/britlex/node_modules/@swc/helpers/lib/_class_name_tdz_error.js1690373403263999000 0
 64/workspaces/britlex/node_modules/caniuse-lite/data/regions/LU.js1690373401440000000 0
@@ -2515,7 +2515,7 @@
 64/workspaces/britlex/node_modules/caniuse-lite/data/regions/LB.js1690373401440000000 0
 64/workspaces/britlex/node_modules/caniuse-lite/data/regions/CV.js1690373401440000000 0
 55/workspaces/britlex/node_modules/safe-buffer/index.d.ts1690373401437999000 0
-43/workspaces/britlex/dist/light.b8ce7451.svg1690379324467682200 0
+43/workspaces/britlex/dist/light.b8ce7451.svg1690545236336813900 0
 102/workspaces/britlex/node_modules/msgpackr-extract/node_modules/node-gyp-build-optional-packages/bin.js1690373402174000000 0
 82/workspaces/britlex/node_modules/caniuse-lite/data/features/hardwareconcurrency.js1690373401440000000 0
 80/workspaces/britlex/node_modules/lmdb/dependencies/lz4/lib/dll/example/README.md1690373401184999000 0
@@ -2526,7 +2526,7 @@
 67/workspaces/britlex/node_modules/caniuse-lite/data/features/webm.js1690373401440000000 0
 65/workspaces/britlex/node_modules/svgo/plugins/removeEmptyAttrs.js1690373401744999000 0
 71/workspaces/britlex/node_modules/@parcel/core/lib/public/Environment.js1690373398605000000 0
-42/workspaces/britlex/dist/logo.cc3c0140.svg1690379324427682200 0
+42/workspaces/britlex/dist/logo.cc3c0140.svg1690545236312813900 0
 87/workspaces/britlex/node_modules/caniuse-lite/data/features/css-file-selector-button.js1690373401440000000 0
 65/workspaces/britlex/node_modules/cosmiconfig/dist/readFile.js.map1690373403694999000 0
 55/workspaces/britlex/node_modules/domelementtype/lib/esm1690373427511682200 1
@@ -2648,7 +2648,7 @@
 85/workspaces/britlex/node_modules/@parcel/transformer-postcss/node_modules/.bin/semver1690373427799682200 0
 64/workspaces/britlex/node_modules/caniuse-lite/data/regions/BW.js1690373401440000000 0
 78/workspaces/britlex/node_modules/@parcel/packager-js/lib/GlobalOutputFormat.js1690373400084000000 0
-43/workspaces/britlex/dist/index.f3b972e4.css1690379324503682200 0
+43/workspaces/britlex/dist/index.f3b972e4.css1690545262676813900 0
 46/workspaces/britlex/node_modules/nth-check/lib1690373427191682200 1
 64/workspaces/britlex/node_modules/caniuse-lite/data/regions/ST.js1690373401440000000 0
 52/workspaces/britlex/node_modules/safe-buffer/LICENSE1690373401437999000 0
@@ -2683,7 +2683,7 @@
 64/workspaces/britlex/node_modules/caniuse-lite/data/regions/FK.js1690373401440000000 0
 86/workspaces/britlex/node_modules/@parcel/utils/test/input/sourcemap/source-root.js.map1690373398845999000 0
 62/workspaces/britlex/node_modules/@parcel/utils/src/debounce.js1690373398845999000 0
-44/workspaces/britlex/dist/britlex.3464ddca.js1690379324479682200 0
+44/workspaces/britlex/dist/britlex.3464ddca.js1690545236500813900 0
 77/workspaces/britlex/node_modules/caniuse-lite/data/features/css-textshadow.js1690373401440000000 0
 65/workspaces/britlex/node_modules/@parcel/events/src/Disposable.js1690373398789999000 0
 46/workspaces/britlex/node_modules/escalade/sync1690373425439682200 1
@@ -2748,7 +2748,7 @@
 54/workspaces/britlex/node_modules/ordered-binary/assets1690373426979682200 1
 81/workspaces/britlex/node_modules/caniuse-lite/data/features/css-default-pseudo.js1690373401440000000 0
 73/workspaces/britlex/node_modules/caniuse-lite/data/features/use-strict.js1690373401440000000 0
-30/workspaces/britlex/index.html1690379324043682200 0
+30/workspaces/britlex/index.html1690540847176813900 0
 59/workspaces/britlex/node_modules/caniuse-lite/data/features1690373427423682200 1
 67/workspaces/britlex/node_modules/@babel/code-frame/lib/index.js.map1690373416421000000 0
 82/workspaces/britlex/node_modules/caniuse-lite/data/features/css-relative-colors.js1690373401440000000 0
@@ -2758,7 +2758,7 @@
 72/workspaces/britlex/node_modules/caniuse-lite/data/features/css-masks.js1690373401440000000 0
 75/workspaces/britlex/node_modules/@parcel/core/test/fixtures/parcel/index.js1690373398605000000 0
 61/workspaces/britlex/node_modules/css-tree/lib/lexer/search.js1690373403954999000 0
-39/workspaces/britlex/assets/svg/self.svg1690373236231682200 0
+39/workspaces/britlex/assets/svg/self.svg1690538673380813900 0
 53/workspaces/britlex/node_modules/lightningcss/LICENSE1690373402313999000 0
 84/workspaces/britlex/node_modules/@swc/helpers/src/_tagged_template_literal_loose.mjs1690373403263999000 0
 79/workspaces/britlex/node_modules/@parcel/transformer-postcss/lib/loadPlugins.js1690373401937000000 0
@@ -3132,7 +3132,7 @@
 65/workspaces/britlex/node_modules/@swc/helpers/src/_instanceof.mjs1690373403263999000 0
 64/workspaces/britlex/node_modules/htmlparser2/lib/Parser.d.ts.map1690373407868999000 0
 75/workspaces/britlex/node_modules/@parcel/markdown-ansi/src/markdown-ansi.js1690373401867000000 0
-47/workspaces/britlex/dist/listening.ea1ac0b9.svg1690379324467682200 0
+47/workspaces/britlex/dist/listening.ea1ac0b9.svg1690545236340813900 0
 73/workspaces/britlex/node_modules/caniuse-lite/data/features/indexeddb2.js1690373401440000000 0
 76/workspaces/britlex/node_modules/@swc/helpers/src/_await_async_generator.mjs1690373403263999000 0
 82/workspaces/britlex/node_modules/caniuse-lite/data/features/http-live-streaming.js1690373401440000000 0
@@ -3154,7 +3154,7 @@
 66/workspaces/britlex/node_modules/caniuse-lite/data/features/ttf.js1690373401440000000 0
 64/workspaces/britlex/node_modules/caniuse-lite/data/regions/MC.js1690373401440000000 0
 83/workspaces/britlex/node_modules/caniuse-lite/data/features/css-at-counter-style.js1690373401440000000 0
-46/workspaces/britlex/dist/speaking.84af8ff0.svg1690379324467682200 0
+46/workspaces/britlex/dist/speaking.84af8ff0.svg1690545236336813900 0
 68/workspaces/britlex/node_modules/css-tree/lib/syntax/pseudo/index.js1690373403954999000 0
 79/workspaces/britlex/node_modules/caniuse-lite/data/features/css-text-spacing.js1690373401440000000 0
 78/workspaces/britlex/node_modules/caniuse-lite/data/features/canvas-blending.js1690373401440000000 0
@@ -3172,7 +3172,7 @@
 97/workspaces/britlex/node_modules/@parcel/node-resolver-core/parcel-resolver.linux-arm64-musl.node1690373399798000000 0
 83/workspaces/britlex/node_modules/caniuse-lite/data/features/intersectionobserver.js1690373401440000000 0
 41/workspaces/britlex/node_modules/has-flag1690373419899682200 1
-35/workspaces/britlex/dist/index.html1690379324467682200 0
+35/workspaces/britlex/dist/index.html1690545236444813900 0
 109/workspaces/britlex/node_modules/msgpackr-extract/node_modules/node-gyp-build-optional-packages/build-test.js1690373402174000000 0
 61/workspaces/britlex/node_modules/commander/typings/index.d.ts1690373398602999000 0
 67/workspaces/britlex/node_modules/caniuse-lite/data/features/flac.js1690373401440000000 0
@@ -3831,7 +3831,7 @@
 100/workspaces/britlex/node_modules/msgpackr-extract/node_modules/.bin/node-gyp-build-optional-packages1690373427815682200 0
 69/workspaces/britlex/node_modules/caniuse-lite/data/browserVersions.js1690373401440000000 0
 95/workspaces/britlex/node_modules/msgpackr-extract/node_modules/node-gyp-build-optional-packages1690373424903682200 1
-43/workspaces/britlex/assets/svg/contacts.svg1690373236227682200 0
+43/workspaces/britlex/assets/svg/contacts.svg1690538591160813900 0
 84/workspaces/britlex/node_modules/@babel/highlight/node_modules/has-flag/package.json1690373416819999000 0
 96/workspaces/britlex/node_modules/@parcel/core/test/fixtures/custom-format-infer-ext/package.json1690373398605000000 0
 88/workspaces/britlex/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/020-usage.md1690373401673000000 0
