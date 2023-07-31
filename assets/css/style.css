@@ -393,7 +393,7 @@ section {
 
 .about {
 	display: flex;
-	justify-content: space-evenly
+	justify-content: space-between;
 
 }
 
@@ -420,7 +420,7 @@ section {
 
 .about-meta {
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 }
 
 .about-pupils {
