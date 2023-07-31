@@ -390,3 +390,104 @@ section {
 	font-weight: 400;
 	line-height: normal;
 }
+
+.about {
+	display: flex;
+	justify-content: space-evenly
+
+}
+
+.about-container {
+	display: flex;
+	flex-direction: column;
+}
+
+.about-title h2 {
+	color: #000;
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 80px;
+}
+
+.about-text p {
+	color: #8F95A5;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.about-meta {
+	display: flex;
+	justify-content: space-between;
+}
+
+.about-pupils {
+	display: flex;
+	flex-direction: column;
+}
+
+.pupils-number {
+	color: #2A3246;
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 80px;
+}
+
+.pupils-pup{
+	color: #8F95A5;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.about-teachers {
+	display: flex;
+	flex-direction: column;
+}
+
+.teachers-number {
+	color: #2A3246;
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 80px;
+}
+
+.teachers-teach {
+	color: #8F95A5;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.about-foreign {
+	display: flex;
+	flex-direction: column;
+}
+
+.foreign-number {
+	color: #2A3246;
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 80px;
+}
+
+.foreign-languages {
+	color: #8F95A5;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.about-image {
+	width: 500px;
+	height: 500px;
+	flex-shrink: 0;
+}
