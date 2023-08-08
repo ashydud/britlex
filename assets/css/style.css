@@ -434,6 +434,9 @@ section {
 	font-style: normal;
 	font-weight: 600;
 	line-height: 80px;
+
+	display: flex;
+	justify-content: center;
 }
 
 .pupils-pup{
@@ -442,6 +445,9 @@ section {
 	font-style: normal;
 	font-weight: 400;
 	line-height: normal;
+
+	display: flex;
+	justify-content: center;
 }
 
 .about-teachers {
@@ -455,6 +461,9 @@ section {
 	font-style: normal;
 	font-weight: 600;
 	line-height: 80px;
+
+	display: flex;
+	justify-content: center;
 }
 
 .teachers-teach {
@@ -463,6 +472,9 @@ section {
 	font-style: normal;
 	font-weight: 400;
 	line-height: normal;
+
+	display: flex;
+	justify-content: center;
 }
 
 .about-foreign {
@@ -476,6 +488,9 @@ section {
 	font-style: normal;
 	font-weight: 600;
 	line-height: 80px;
+
+	display: flex;
+	justify-content: center;
 }
 
 .foreign-languages {
@@ -484,10 +499,175 @@ section {
 	font-style: normal;
 	font-weight: 400;
 	line-height: normal;
+
+	display: flex;
+	justify-content: center;
 }
 
 .about-image {
 	width: 500px;
 	height: 500px;
 	flex-shrink: 0;
+}
+
+.pricing {
+	
+}
+
+.pricing-container {
+
+}
+
+.pricing-title h2 {
+	display: flex;
+	justify-content: center;
+
+	color: #000;
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 80px
+}
+
+.pricing-content {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.pricing-course {
+	display: flex;
+	flex-direction: column;
+
+	margin: 30px;
+	row-gap: 40px;
+}
+
+.course-image {
+	width: 311px;
+	height: 311px;
+	flex-shrink: 0;
+}
+
+.course-content {
+
+}
+
+.course-title h3 {
+	color: #263238;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 48px;
+}
+
+.course-text p {
+	color: #8F95A5;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+
+	margin-top: 19px;
+}
+
+.course-price {
+	width: 240px;
+	height: 45px;
+	flex-shrink: 0;
+
+	border-radius: 5px;
+	background: #EEE;
+	margin-top: 34px;
+}
+
+.pricing-classes {
+	display: flex;
+	flex-direction: column;
+
+	margin: 30px;
+	row-gap: 69px;
+}
+
+.classes-image {
+	width: 391px;
+	height: 283px;
+	flex-shrink: 0;
+}
+
+.classes-content {
+
+}
+
+.classes-title h3 {
+	color: #263238;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 48px;
+}
+
+.classes-text p {
+	color: #8F95A5;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+
+	margin-top: 23px;
+}
+
+.classes-price {
+	width: 240px;
+	height: 45px;
+	flex-shrink: 0;
+
+	border-radius: 5px;
+	background: #EEE;
+	margin-top: 59px;
+}
+
+.pricing-personal {
+	display: flex;
+	flex-direction: column;
+
+	margin: 30px;
+	row-gap: 14px;
+}
+
+.personal-image {
+	width: 340px;
+	height: 340px;
+	flex-shrink: 0;
+}
+
+.personal-content {
+
+}
+
+.personal-title h3 {
+	color: #263238;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 48px;
+}
+
+.personal-text p {
+	color: #8F95A5;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+
+	margin-top: 30px;
+}
+
+.personal-price {
+	width: 240px;
+	height: 45px;
+	flex-shrink: 0;
+
+	border-radius: 5px;
+	background: #EEE;
+	margin-top: 20px;
 }

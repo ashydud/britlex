@@ -374,18 +374,22 @@ section {
 
 .pupils-number {
   color: #2a3246;
+  justify-content: center;
   font-size: 48px;
   font-style: normal;
   font-weight: 600;
   line-height: 80px;
+  display: flex;
 }
 
 .pupils-pup {
   color: #8f95a5;
+  justify-content: center;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  display: flex;
 }
 
 .about-teachers {
@@ -395,18 +399,22 @@ section {
 
 .teachers-number {
   color: #2a3246;
+  justify-content: center;
   font-size: 48px;
   font-style: normal;
   font-weight: 600;
   line-height: 80px;
+  display: flex;
 }
 
 .teachers-teach {
   color: #8f95a5;
+  justify-content: center;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  display: flex;
 }
 
 .about-foreign {
@@ -416,24 +424,160 @@ section {
 
 .foreign-number {
   color: #2a3246;
+  justify-content: center;
   font-size: 48px;
   font-style: normal;
   font-weight: 600;
   line-height: 80px;
+  display: flex;
 }
 
 .foreign-languages {
   color: #8f95a5;
+  justify-content: center;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  display: flex;
 }
 
 .about-image {
   flex-shrink: 0;
   width: 500px;
   height: 500px;
+}
+
+.pricing-title h2 {
+  color: #000;
+  justify-content: center;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 80px;
+  display: flex;
+}
+
+.pricing-content {
+  justify-content: space-evenly;
+  display: flex;
+}
+
+.pricing-course {
+  flex-direction: column;
+  row-gap: 40px;
+  margin: 30px;
+  display: flex;
+}
+
+.course-image {
+  flex-shrink: 0;
+  width: 311px;
+  height: 311px;
+}
+
+.course-title h3 {
+  color: #263238;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 48px;
+}
+
+.course-text p {
+  color: #8f95a5;
+  margin-top: 19px;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.course-price {
+  background: #eee;
+  border-radius: 5px;
+  flex-shrink: 0;
+  width: 240px;
+  height: 45px;
+  margin-top: 34px;
+}
+
+.pricing-classes {
+  flex-direction: column;
+  row-gap: 69px;
+  margin: 30px;
+  display: flex;
+}
+
+.classes-image {
+  flex-shrink: 0;
+  width: 391px;
+  height: 283px;
+}
+
+.classes-title h3 {
+  color: #263238;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 48px;
+}
+
+.classes-text p {
+  color: #8f95a5;
+  margin-top: 23px;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.classes-price {
+  background: #eee;
+  border-radius: 5px;
+  flex-shrink: 0;
+  width: 240px;
+  height: 45px;
+  margin-top: 59px;
+}
+
+.pricing-personal {
+  flex-direction: column;
+  row-gap: 14px;
+  margin: 30px;
+  display: flex;
+}
+
+.personal-image {
+  flex-shrink: 0;
+  width: 340px;
+  height: 340px;
+}
+
+.personal-title h3 {
+  color: #263238;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 48px;
+}
+
+.personal-text p {
+  color: #8f95a5;
+  margin-top: 30px;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.personal-price {
+  background: #eee;
+  border-radius: 5px;
+  flex-shrink: 0;
+  width: 240px;
+  height: 45px;
+  margin-top: 20px;
 }
 
 /*# sourceMappingURL=index.f3b972e4.css.map */
