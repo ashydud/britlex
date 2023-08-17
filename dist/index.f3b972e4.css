@@ -486,13 +486,6 @@ section {
   display: flex;
 }
 
-.price-container {
-  flex-direction: column;
-  row-gap: 40px;
-  height: 100%;
-  display: flex;
-}
-
 .price-body {
   flex-direction: column;
   row-gap: 20px;
@@ -554,6 +547,73 @@ section {
 .price-amount span {
   color: #546269;
   font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.contacts-container {
+  justify-content: space-between;
+  column-gap: 100px;
+  margin: 125px -15px 0;
+  display: flex;
+}
+
+.contacts-image {
+  flex: 0 0 40%;
+  max-width: 40%;
+  margin-bottom: 133px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.contacts-content {
+  flex-direction: column;
+  flex: 1 0;
+  max-width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: flex;
+}
+
+.contacts-title {
+  margin-top: 15px;
+}
+
+.contacts-title h2 {
+  color: #000;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 80px;
+}
+
+.contacts-text {
+  margin-top: 37px;
+}
+
+.contacts-text p {
+  color: #8f95a5;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.contacts-form {
+  align-items: center;
+  column-gap: 12px;
+  margin-top: 50px;
+  display: flex;
+}
+
+.contacts-email {
+  color: #8f95a5;
+  border: 1px solid #8f95a5;
+  border-radius: 5px;
+  width: 100%;
+  padding: 21px 33px;
+  font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
