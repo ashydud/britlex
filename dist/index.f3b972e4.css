@@ -619,4 +619,42 @@ section {
   line-height: normal;
 }
 
+.footer {
+  border-top: 1px solid #000;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 60px;
+  display: flex;
+}
+
+.logo-footer {
+  width: 106px;
+  height: 54px;
+  display: flex;
+}
+
+.footer-nav {
+  align-items: center;
+  column-gap: 25px;
+  display: flex;
+}
+
+.footer-nav .nav-link {
+  color: #8f95a5;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  transition: all .3s linear;
+}
+
+.footer .nav-link:hover {
+  opacity: .7;
+}
+
+.footer-nav :not(:first-child) {
+  list-style: disc;
+}
+
 /*# sourceMappingURL=index.f3b972e4.css.map */
