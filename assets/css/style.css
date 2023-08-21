@@ -398,13 +398,23 @@ section {
 .about {
 	display: flex;
 	justify-content: space-between;
-
+	column-gap: 100px;
 	margin-bottom: 95px;
 }
 
 .about-container {
 	display: flex;
 	flex-direction: column;
+
+}
+
+.about-content {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	flex: 0 0 45%;
+	max-width: 45%;
 }
 
 .about-title h2 {
@@ -425,12 +435,14 @@ section {
 
 .about-meta {
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
+
 }
 
 .about-pupils {
 	display: flex;
 	flex-direction: column;
+	align-items: center;
 }
 
 .pupils-number {
@@ -458,6 +470,7 @@ section {
 .about-teachers {
 	display: flex;
 	flex-direction: column;
+	align-items: center;
 }
 
 .teachers-number {
@@ -485,6 +498,7 @@ section {
 .about-foreign {
 	display: flex;
 	flex-direction: column;
+	align-items: center;
 }
 
 .foreign-number {
@@ -510,9 +524,9 @@ section {
 }
 
 .about-image {
-	width: 500px;
-	height: 500px;
-	flex-shrink: 0;
+	
+	flex: 0 0 40%;
+	max-width: 40%;
 }
 
 .pricing {
